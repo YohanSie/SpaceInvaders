@@ -42,7 +42,7 @@ Para se construir um jogo é necessário ter conhecimento de quais eventos são 
 |               Clock              |       trabalha com o tempo dos quadros do jogo.              |
 |               sprite             |é uma imagem que faz parte do jogo, isto é, são os componentes que aparecem no jogo. Podendo se dividir em Sprite e Group (a classe Group serve para agrupar várias sprites).|
 
-### Pygame
+### Pygame - A Biblioteca
 
 PyGame é um módulo<sup>[1](#footnote-1)</sup> usado na programação de jogos 2D, escrito utilizando C e Python. Ele pode ser executado em todas as principais plataformas e fornece ferramentas simples para gerenciar ambientes gráficos complexos, com movimentos e sons.  
 Alguns módulos presentes em pygame são:  
